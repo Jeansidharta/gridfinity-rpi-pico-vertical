@@ -3,8 +3,6 @@ use <../lib/rounded_square.scad>;
 
 module gridfinity_cup_base(magnets = true)
 {
-
-
     module base_no_magnets()
     {
         translate([ 0, 0, -top_slope_height ])
