@@ -1,0 +1,2 @@
+watch:
+	openscad base.scad
