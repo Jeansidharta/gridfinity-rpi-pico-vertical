@@ -38,7 +38,7 @@ difference()
             translate([ 7, -6, 8 ]) rpi_pico();
             translate([ 7, -14, 8 ]) rpi_pico();
             translate([ -14, -7, 8 ]) rotate([ 0, 0, -90 ]) rpi_pico();
-            translate([ -11.5, -7, 8 ]) rotate([ 0, 0, 90 ]) rpi_pico();
+            translate([ -7, -7, 8 ]) rotate([ 0, 0, -90 ]) rpi_pico();
         }
         sphere(r = 0.75);
     }
