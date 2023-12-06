@@ -44,7 +44,7 @@ difference()
     }
     translate([ -18, 10, cup_height - 1 ])
     {
-        linear_extrude(2) scale(0.05) import(file = "./raspberry-pi.svg");
+        linear_extrude(2) scale(0.05) import(file = "../assets/raspberry-pi.svg");
         translate([ 0, -2.5, 0 ]) linear_extrude(2) text("PICO", 3);
     }
 }
