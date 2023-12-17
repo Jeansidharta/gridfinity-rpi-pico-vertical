@@ -1,5 +1,5 @@
-use <../base/gridfinity_cup_with_walls.scad>;
-use <../lib/rounded_square.scad>;
+use <../libs/gridfinity-openscad/gridfinity_cup_with_walls.scad>;
+use <../libs/gridfinity-openscad/rounded_square.scad>;
 
 module rpi_pico()
 {

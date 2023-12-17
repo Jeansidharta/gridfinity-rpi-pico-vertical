@@ -1,0 +1,3 @@
+[submodule "libs/gridfinity-openscad"]
+	path = libs/gridfinity-openscad
+	url = git@github.com:Jeansidharta/gridfinity-openscad.git
