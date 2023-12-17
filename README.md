@@ -2,7 +2,7 @@
 
 ![3d printed model verion](/assets/gridfinty-rpi-pico-resized.jpg)
 
-![render model](/assets/render.png)
+![render model](/assets/render.jpg)
 
 Gridfinity was made by Zack Freedman in this video:
 https://www.youtube.com/watch?v=ra_9zU-mnl8
